@@ -38,6 +38,6 @@ class SecBlankFragment : Fragment(R.layout.fragment_sec_blank) {
             adapter = customAdapter
         }
     }
-
+   //main commit
 
 }
